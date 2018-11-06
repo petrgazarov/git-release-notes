@@ -26,3 +26,7 @@ See `output.md` file for the output result of the script.
 Sample preview of output.md:
 
 ![sample-output](./output_preview.png)
+
+### License
+
+MIT

@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Print a summary of new commits across all clause repositories",
   "main": "index.js",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "generate-release-notes": "node ."
