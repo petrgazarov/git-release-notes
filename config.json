@@ -1,0 +1,12 @@
+{
+  "repositories": {
+    "some-repo-1": "../some-repo-1",
+    "some-repo-2": "../some-repo-2"
+  },
+  "defaults": {
+    "fromBranch": "staging",
+    "toBranch": "production"
+  },
+  "logging": true,
+  "remoteName": "origin"
+}
